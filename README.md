@@ -8,3 +8,4 @@ Module 01 Lab 02 ML Practice - Uploaded [17/09/2023]<br>
 Module 01 Lab 03 Augmentation - Uploaded [24/09/2023]<br>
 Module 01 Lab 04 LinearAlgebra - Uploaded [01/10/2023]<br>
 Module 02 Lab 01 Interpreting and Visualizing Data - Uploaded [08/10/2023]<br>
+Module 02 Lab 02 PCA - Uploaded [Late - 16/07/2023]<br>
