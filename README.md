@@ -11,3 +11,4 @@ Module 02 Lab 01 Interpreting and Visualizing Data - Uploaded [08/10/2023]<br>
 Module 02 Lab 02 PCA - Uploaded [Late - 16/10/2023]<br>
 Module 02 Lab 03 Manifold Learning Methods - Uploaded [22/10/2023]<br>
 Module 02 Lab 04 t-SNE - Uploaded [29/10/2023]<br>
+Module 03 Lab 01 Distance Metrics and Intro to KNN - Uploaded [06/10/2023]<br>
