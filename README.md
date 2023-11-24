@@ -14,3 +14,4 @@ Module 02 Lab 04 t-SNE - Uploaded [29/10/2023]<br>
 Module 03 Lab 01 Distance Metrics and Intro to KNN - Uploaded [06/10/2023]<br>
 Module 03 Lab 02 Implementing KNN - Uploaded [12/11/2023]<br>
 Module 03 Lab 03 Using KNN for Text Classification - Uploaded [Late - 20/11/2023]<br>
+Module 03 Project - Uploaded [24/11/2023]<br>
