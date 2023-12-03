@@ -16,3 +16,4 @@ Module 03 Lab 02 Implementing KNN - Uploaded [12/11/2023]<br>
 Module 03 Lab 03 Using KNN for Text Classification - Uploaded [Late - 20/11/2023]<br>
 Module 03 Project - Uploaded [24/11/2023]<br>
 Module 03 Lab 04 - Understanding Cross-Validation and Standardization - Uploaded [26/11/2023]<br>
+Module 04 Lab 01 - Perceptron and Gradient Descent - Uploaded [03/12/2023]<br>
