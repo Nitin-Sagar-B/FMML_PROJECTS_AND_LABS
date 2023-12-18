@@ -18,3 +18,4 @@ Module 03 Project - Uploaded [24/11/2023]<br>
 Module 03 Lab 04 - Understanding Cross-Validation and Standardization - Uploaded [26/11/2023]<br>
 Module 04 Lab 01 - Perceptron and Gradient Descent - Uploaded [03/12/2023]<br>
 Module 04 Lab 02 - Introduction to Gradient Descent - Uploaded [10/12/2023]<br>
+Module 04 Lab 03 - Uploaded [Late - 19/12/2023]<br>
