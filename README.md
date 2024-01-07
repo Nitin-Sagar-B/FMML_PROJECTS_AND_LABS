@@ -20,3 +20,5 @@ Module 04 Lab 01 - Perceptron and Gradient Descent - Uploaded [03/12/2023]<br>
 Module 04 Lab 02 - Introduction to Gradient Descent - Uploaded [10/12/2023]<br>
 Module 04 Lab 03 - Uploaded [Late - 19/12/2023]<br>
 Module 04 Lab 04 - Uploaded [24/12/2023]<br>
+Module 05 Lab 01 - Uploaded [Late - 07/01/2024]<br>
+Module 05 Lab 02 - Uploaded [07/01/2024]<br>
