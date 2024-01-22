@@ -24,3 +24,4 @@ Module 05 Lab 01 - Uploaded [Late - 07/01/2024]<br>
 Module 05 Lab 02 - Uploaded [07/01/2024]<br>
 Module 05 Lab 03 - Uploaded [14/01/2024]<br>
 Module 05 Project - Uploaded [20/01/2024]<br>
+Module 05 Lab 04 - Uploaded [Late - 22/01/2024]<br>
