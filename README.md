@@ -29,3 +29,6 @@ Module 06 Lab 01 - Uploaded [28/01/2024]<br>
 Module 06 Lab 02 - Uploaded [Late - 05/02/2024]<br>
 Module 06 Project - Uploaded [10/02/2024]<br>
 Module 06 Lab 03 - Uploaded [Late - 12/02/2024]<br>
+Module 07 Lab 01 - Uploaded [19/02/2024]<br>
+Module 07 Lab 02 - Uploaded [25/02/2024]<br>
+Module 07 Lab 03 - Uploaded [Late - 08/03/2024]<br>
