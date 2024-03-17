@@ -33,3 +33,4 @@ Module 07 Lab 01 - Uploaded [19/02/2024]<br>
 Module 07 Lab 02 - Uploaded [25/02/2024]<br>
 Module 07 Lab 03 - Uploaded [Late - 08/03/2024]<br>
 Module 07 Lab 04 - Uploaded [10/03/2024]<br>
+Module 08 Lab 01 - Uploaded [17/03/2024]<br>
